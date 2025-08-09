@@ -19,8 +19,8 @@
 ---
 
 ## 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivxn1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivxn1&layout=compact&theme=tokyonight)
 
 ---
 
