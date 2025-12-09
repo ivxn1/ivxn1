@@ -18,10 +18,5 @@
 
 ---
 
-## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 🐞 QA Motto
 > "I don’t break things. I *find* things that were already broken."
