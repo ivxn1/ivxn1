@@ -1,4 +1,4 @@
-# Hi there, I'm Ivan Zhelev! 👋
+# Hi there, I'm Ivan! 👋
 
 ### 👨‍💻 Aspiring Software Developer | QA-Focused
 
